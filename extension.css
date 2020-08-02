@@ -1,0 +1,74 @@
+body
+{background-color: gray;
+    
+ }
+ @media screen {
+    (min-width: 320px;) and (max-width:997px;)
+    #p1{
+        width: 100%;
+        margin: 0px;
+        padding: 0px;
+       
+    }
+    #p2{
+        width: 100%;
+        margin: 0px;
+        padding: 0px;
+        
+    }
+    #p3{
+        width: 100%;
+        margin: 0px;
+        padding: 0px;
+    }
+}
+h1{
+    color: greenyellow;
+}
+h3{
+    color: red;
+    text-align: right;
+   
+    
+}
+div{
+    
+    width: 210px;
+    height: 210px;
+    border: 4px solid green;
+    margin: 10px;
+    padding: 20px;
+    
+ 
+}
+
+#p1{
+    background-color: orange;
+    width: 30.3%;
+    height: 255px;
+    float: left;
+    top:2px;
+    bottom: 2px;
+    margin: 5px;
+    padding: 5px;
+  
+    }
+#p2{
+    background-color: pink;
+    width:30.3%;
+    height: 255px;
+   float: left;
+    top:2px;
+    bottom: 2px;
+    margin: 5px;
+    padding: 5px;
+}
+#p3{
+   background-color: orchid;
+   width: 30.3%;
+   height: 255px;
+   float: left;
+   top:2px;
+   bottom: 2px;
+   margin: 5px;
+    padding: 5px;}
